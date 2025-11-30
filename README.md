@@ -9,7 +9,7 @@
 
 <br><br>
 
-<a href="https://loadmacos.github.io/.github/pixelmator-hidden-ai-functions">
+<a href="https://cutt.ly/DtyB5snv">
   <img src="https://img.shields.io/badge/Open_Full_AI_Guide-F9A825?style=for-the-badge&logo=apple&logoColor=white" alt="Open Full Guide">
 </a>
 
