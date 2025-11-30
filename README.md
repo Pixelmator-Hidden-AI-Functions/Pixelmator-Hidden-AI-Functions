@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="https://i.ytimg.com/vi/u_5m7OFpguo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAjjTQJTuEs6xZyINeWqgWJR6Q0Ww" width="779" alt="Pixelmator Pro Logo">
+<img src="https://ipadizate.com/hero/2024/11/logo-pixelmator.jpg?width=768&aspect_ratio=16:9&format=nowebp" width="779" alt="Pixelmator Pro Logo">
 
 <br><br>
 
